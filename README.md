@@ -1,4 +1,4 @@
-# Catalog of Development tools
+# Catalog of development tools
 
 ## The Best Temporary Email Services
 - [Temp Mail](https://tempmailbox.net/) tempmailbox.net
